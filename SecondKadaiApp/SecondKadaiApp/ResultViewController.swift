@@ -19,7 +19,7 @@ class ResultViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         let result = resulttextfield
-                label.text = "こんにちは、\n\n\(result) さん"
+                 label.text = "こんにちは、\n\n\(result) さん"
     }
     
 
